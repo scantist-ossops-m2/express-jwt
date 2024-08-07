@@ -44,7 +44,7 @@
     "mocha": "1.x.x"
   },
   "engines": {
-    "node": ">= 8.0.0"
+    "node": ">= 0.4.0"
   },
   "scripts": {
     "test": "node_modules/.bin/mocha --reporter spec"
